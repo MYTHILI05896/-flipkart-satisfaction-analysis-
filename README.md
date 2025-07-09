@@ -1,5 +1,11 @@
 # Flipkart Customer Service Satisfaction Analysis
 
+
+📈 **Final F1 Score:** `0.78  
+🎓 **Grade Achieved:** ~7.5 / 10  
+⭐ **Level:** Intermediate Machine Learning Project
+
+
 ## Run in GitHub Codespaces
 1. Click the "Code" button
 2. Select "Open with Codespaces"
